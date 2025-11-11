@@ -1,0 +1,15 @@
+{
+  "name": "io.github.ykysnk.asset-backup",
+  "displayName": "Quick Asset Backup",
+  "version": "0.0.1",
+  "description": "Quick backup asset by pressing shift+b",
+  "gitDependencies": {},
+  "vpmDependencies": {},
+  "author": {
+    "name": "yukiyosanako / \u3086\u304d\u3088\u3055\u306a\u3053",
+    "email": "github.qszdy@aleeas.com"
+  },
+  "legacyFolders": {},
+  "legacyFiles": {},
+  "localPath": "L:\\VRChatProjects\\VPM.AssetBackup\\Packages\\io.github.ykysnk.asset-backup"
+}
