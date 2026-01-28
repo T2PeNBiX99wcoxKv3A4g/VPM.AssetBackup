@@ -1,8 +1,8 @@
 {
   "name": "io.github.ykysnk.asset-backup",
-  "displayName": "Quick Asset Backup",
-  "version": "0.0.2",
-  "description": "Quick backup asset by pressing shift+b",
+  "displayName": "Quick Asset Backup (Deprecated)",
+  "version": "0.0.3",
+  "description": "Quick backup asset by pressing shift+b (Include in YKYToolkit)",
   "gitDependencies": {},
   "vpmDependencies": {},
   "author": {
